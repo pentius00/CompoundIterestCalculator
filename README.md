@@ -14,7 +14,7 @@ Ejemplo de uso
 A continuación se muestra un ejemplo de cómo se puede utilizar la calculadora de interés compuesto:
 
 
-!![image info](./pictures/esp_example.JPG)
+![image info](./pictures/esp_example.JPG)
 
 
 Contribuciones
