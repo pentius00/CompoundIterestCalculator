@@ -14,7 +14,9 @@ Ejemplo de uso
 A continuación se muestra un ejemplo de cómo se puede utilizar la calculadora de interés compuesto:
 
 
-!![image info](./pictures/esp_example.png)
+!![image info](./pictures/esp_example.JPG)
+
+
 Contribuciones
 Siéntase libre de contribuir a este proyecto haciendo un fork del repositorio, creando una rama con sus cambios y abriendo un pull request. También puede informar de cualquier problema que encuentre en la sección de problemas del repositorio.
 
@@ -38,7 +40,8 @@ The calculator will return the total amount, including compound interest, as wel
 Example Usage
 Here's an example of how the compound interest calculator can be used:
 
-![image info](./pictures/eng_example.png)
+![image info](./pictures/eng_example.JPG)
+
 Contributions
 Feel free to contribute to this project by forking the repository, creating a branch with your changes, and opening a pull request. You can also report any issues you find in the repository's issues section.
 
