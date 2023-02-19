@@ -14,12 +14,7 @@ Ejemplo de uso
 A continuación se muestra un ejemplo de cómo se puede utilizar la calculadora de interés compuesto:
 
 
-Escriba la cantidad principal: 1000
-Escriba la tasa de interés para el préstamo en porcentaje: 5
-Escriba el tiempo del préstamo: 12
-Escriba la unidad de tiempo (años, meses o días): meses
-La cantidad total, incluyendo el interés compuesto, es: 1061.68
-El interés compuesto antes de ser agregado a la cantidad principal es: 61.68
+![alt text](esp_example.jpg)
 Contribuciones
 Siéntase libre de contribuir a este proyecto haciendo un fork del repositorio, creando una rama con sus cambios y abriendo un pull request. También puede informar de cualquier problema que encuentre en la sección de problemas del repositorio.
 
@@ -43,14 +38,7 @@ The calculator will return the total amount, including compound interest, as wel
 Example Usage
 Here's an example of how the compound interest calculator can be used:
 
-yaml
-Copy code
-Enter the principal amount: 1000
-Enter the interest rate for the loan in percent: 5
-Enter the loan time: 12
-Enter the time unit (years, months, or days): months
-The total amount, including compound interest, is: 1061.68
-The compound interest before being added to the principal amount is: 61.68
+![alt text](eng_example.jpg)
 Contributions
 Feel free to contribute to this project by forking the repository, creating a branch with your changes, and opening a pull request. You can also report any issues you find in the repository's issues section.
 
