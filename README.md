@@ -1,6 +1,6 @@
 # Calculadora de interés compuesto
 
-![image info](https://numdea.com/wp-content/uploads/2019/12/concepto-ahorro-270x180.jpg)
+![image info](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbSLMMKgIxowllikaXImax0H4stNiL_G24PLJPGiv-puxPUgeZ)
 
 ## Esta es una calculadora simple de interés compuesto en Python. El interés compuesto es un concepto financiero importante que describe cómo el interés ganado se reinvierte para generar aún más interés con el tiempo. Esta calculadora le permitirá calcular la cantidad total que se acumula después de un cierto período de tiempo, incluyendo el interés compuesto.
 
